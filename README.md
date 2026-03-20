@@ -1,6 +1,6 @@
 # 👋 Hi — I'm Bülent Erdal
 
-🚀 Oracle Performance Engineer | EBS Integration Architect | High Volume Data Processing Specialist  
+🚀 Oracle Performance Engineer | Enterprise Integration Architect | High-Volume Data Processing Specialist  
 
 I help enterprises redesign slow database workloads and build scalable batch & integration architectures.
 
