@@ -1,6 +1,6 @@
 # Hi 👋 I'm Bülent Erdal
 
-## 🚀 Senior Oracle EBS Technical Consultant | Performance Tuning Specialist | Integration Architect
+## 🚀 Senior Oracle EBS Technical Consultant | Performance Tuning & High Volume Data Architect | Integration & Backend Developer
 
 Experienced Oracle EBS Technical Consultant with strong expertise in high-volume data processing, SQL performance optimization, PL/SQL architecture, and enterprise system integrations.
 
@@ -38,18 +38,19 @@ Designed bidirectional REST integration architecture between Oracle EBS and exte
 
 Oracle Database | Oracle EBS | PL/SQL | SQL Loader  
 Java | Spring Boot | REST APIs  
-Batch Processing | Scheduler Orchestration  
-Performance Tuning | Data Integration
+High Volume Batch Processing | Scheduler Orchestration  
+Performance Tuning | Data Integration | Parallel Processing  
 
 ## ☕ Java Integration & Middleware Experience
-In addition to Oracle database expertise, I have practical experience developing Java-based middleware services for enterprise system integrations.
 
-- Spring Boot REST service development
-- Asynchronous processing & scheduler orchestration
-- Retry mechanism design using queue tables
-- Bidirectional integration workflows
-- High reliability logging & transaction tracking
-- API performance optimization & batching strategies
+Alongside deep Oracle database expertise, I have hands-on experience designing and developing Java-based middleware services for enterprise integrations.
+
+- Spring Boot REST API development for external system integrations
+- Asynchronous processing and scheduler-driven orchestration
+- Retry and recovery mechanisms using queue tables and background jobs
+- Bidirectional data synchronization workflows
+- Transaction-based logging and monitoring architecture
+- API performance optimization, batching strategies, and failure handling
 
 ---
 
